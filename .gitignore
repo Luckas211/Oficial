@@ -1,5 +1,5 @@
 venv
-main.py
+
 test_testando.py
 launch.json
 __pycache__/test_testando.cpython-313-pytest-8.3.5.pyc
